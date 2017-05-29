@@ -1,0 +1,1 @@
+F:\C# Programs\AbsoluteBeginnersWin10-master\UWP-078\UWP-078\HeroExplorer\HeroExplorer\HeroExplorer.csproj;x86
